@@ -1,4 +1,4 @@
-# Computer Networking Project - Packet Tracer
+# Computer Networking Project
 
 ## Overview
 
@@ -40,7 +40,7 @@ Download and install Cisco Packet Tracer.
 Clone this repository using:
 bash
 Copy code
-git clone https://github.com/your-username/CNProject.git
+git clone https://github.com/your-username/DEPI_Project.git
 Open the .pkt file in Cisco Packet Tracer.
 Explore the configurations, test connectivity, and modify as needed.
 
